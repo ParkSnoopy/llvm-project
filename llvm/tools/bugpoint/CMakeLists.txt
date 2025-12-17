@@ -21,8 +21,7 @@ set(LLVM_LINK_COMPONENTS
   TargetParser
   TransformUtils
   Vectorize
-  Obfuscation
-)
+  )
 
 add_llvm_tool(bugpoint
   BugDriver.cpp
@@ -40,4 +39,4 @@ add_llvm_tool(bugpoint
   SUPPORT_PLUGINS
 
   EXPORT_SYMBOLS
-)
+  )
