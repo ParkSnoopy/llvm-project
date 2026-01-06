@@ -1,7 +1,7 @@
 > Forked from `llvm/llvm-project` to ensure cleaner structure
 
 --- 
-<h1 align="center">KomiMoe/Hikari</h1>
+<h1 align="center"><a href="https://github.com/komimoe/Hikari">KomiMoe/Hikari</a></h1>
 <h2 align="center">曾用名: Arkari</h2>
 
 <p align="center">
