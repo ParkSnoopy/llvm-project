@@ -1,3 +1,5 @@
+# [Origin repo](https://github.com/komimoe/Arkari) is back and seems stable now, archiving this repo as this repo was just downstream clone
+
 <h1 align="center"><a href="https://github.com/komimoe/Hikari">KomiMoe/Hikari</a></h1>
 <h2 align="center">曾用名: Arkari</h2>
 
